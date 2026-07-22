@@ -45,7 +45,7 @@ layers:
   - ENTER
   - DEL
   '1':
-  - CAPSLOCK
+  - ESCAPE
   - '`'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
