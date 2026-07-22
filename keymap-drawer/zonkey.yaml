@@ -29,7 +29,7 @@ layers:
   - {t: C, h: '6'}
   - {t: V, h: '5'}
   - {t: B, h: '4'}
-  - _
+  - \
   - N
   - M
   - ','
@@ -58,8 +58,8 @@ layers:
   - TAB
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - HOME
+  - END
   - {t: ▽, type: trans}
   - LANGUAGE 2
   - {t: ▽, type: trans}
