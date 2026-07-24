@@ -275,8 +275,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - END
   - HOME
+  - END
   - '&mkp MB5'
   - '&mkp MB4'
   - {t: ▽, type: trans}
