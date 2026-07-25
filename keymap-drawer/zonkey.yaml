@@ -17,19 +17,19 @@ layers:
   - F
   - G
   - Sft+Gui+S
-  - B
+  - TAB
   - H
   - J
   - K
   - L
-  - ''''
+  - '-'
   - LEFT SHIFT
   - Z
   - X
   - {t: C, h: '6'}
   - {t: V, h: '5'}
   - {t: B, h: '4'}
-  - '-'
+  - INTERNATIONAL 1
   - N
   - M
   - ','
@@ -41,11 +41,11 @@ layers:
   - {t: INT HENKAN, h: '3'}
   - {t: SPACE, h: '2'}
   - {t: INT MUHENKAN, h: '1'}
-  - BACKSPACE
   - ENTER
+  - BACKSPACE
   - DEL
   '1':
-  - CAPSLOCK
+  - ESCAPE
   - '`'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -85,8 +85,8 @@ layers:
   - {t: INT HENKAN, h: '3'}
   - {t: SPACE, h: '2'}
   - {t: INT MUHENKAN, h: '1', type: held}
-  - BACKSPACE
   - ENTER
+  - BACKSPACE
   - DEL
   '2':
   - '1'
@@ -101,15 +101,15 @@ layers:
   - {t: '0', s: Sft+9}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LEFT ARROW
+  - RIGHT ARROW
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - UP ARROW
+  - DOWN ARROW
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - LEFT SHIFT
   - {t: ▽, type: trans}
@@ -120,17 +120,17 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - LEFT ARROW
-  - DOWN ARROW
-  - RIGHT ARROW
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - LCTRL
   - LEFT WIN
   - LEFT ALT
   - {t: INT HENKAN, h: '3'}
   - {t: SPACE, h: '2', type: held}
   - {t: INT MUHENKAN, h: '1'}
-  - BACKSPACE
   - ENTER
+  - BACKSPACE
   - DEL
   '3':
   - F1
@@ -173,8 +173,8 @@ layers:
   - {t: INT HENKAN, h: '3', type: held}
   - {t: SPACE, h: '2'}
   - {t: INT MUHENKAN, h: '1'}
-  - BACKSPACE
   - ENTER
+  - BACKSPACE
   - DEL
   '4':
   - {t: BT, h: '0'}
@@ -217,8 +217,8 @@ layers:
   - INT HENKAN
   - SPACE
   - INT MUHENKAN
-  - BACKSPACE
   - ENTER
+  - BACKSPACE
   - DEL
   '5':
   - '&studio_unlock'
@@ -261,8 +261,8 @@ layers:
   - INT HENKAN
   - SPACE
   - INT MUHENKAN
-  - BACKSPACE
   - ENTER
+  - BACKSPACE
   - DEL
   '6':
   - {t: ▽, type: trans}
@@ -277,8 +277,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '&mkp MB5'
+  - '&mkp MB4'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -294,8 +294,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '&msc SCRL_LEFT'
+  - '&msc SCRL_RIGHT'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
