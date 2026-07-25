@@ -17,19 +17,19 @@ layers:
   - F
   - G
   - Sft+Gui+S
-  - B
+  - TAB
   - H
   - J
   - K
   - L
-  - ''''
+  - '-'
   - LEFT SHIFT
   - Z
   - X
   - {t: C, h: '6'}
   - {t: V, h: '5'}
   - {t: B, h: '4'}
-  - '-'
+  - INTERNATIONAL 1
   - N
   - M
   - ','
@@ -45,7 +45,7 @@ layers:
   - ENTER
   - DEL
   '1':
-  - CAPSLOCK
+  - ESCAPE
   - '`'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -101,15 +101,15 @@ layers:
   - {t: '0', s: Sft+9}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LEFT ARROW
+  - RIGHT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - UP ARROW
+  - DOWN ARROW
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - LEFT SHIFT
   - {t: ▽, type: trans}
@@ -120,9 +120,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - LEFT ARROW
-  - DOWN ARROW
-  - RIGHT ARROW
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - LCTRL
   - LEFT WIN
   - LEFT ALT
