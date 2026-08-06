@@ -265,8 +265,8 @@ layers:
   - BACKSPACE
   - DEL
   '6':
-  - '&mkp MB5'
-  - '&mkp MB4'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - END
   - HOME
   - {t: ▽, type: trans}
@@ -298,6 +298,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - '&mkp MB5'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -306,5 +307,4 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '&mkp MB4'
